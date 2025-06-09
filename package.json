@@ -1,0 +1,15 @@
+{
+  "name": "@solvd/type-transform",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Antony Chan",
+  "license": "ISC",
+  "description": "type-transform is a lightweight JavaScript utility library that provides advanced data transformation and type conversion functions. It offers flexible tools for adding values of various types, stringifying complex objects, inverting booleans, converting values to numbers, coercing values to target types, and handling advanced type scenarios. Ideal for developers who need fine-grained control over data operations and transformations.",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
